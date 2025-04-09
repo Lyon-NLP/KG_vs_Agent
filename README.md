@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/afd52df9-bb61-4e27-9086-45a458764740)
 
 
-Talk Lyon Data Science on comparing a Knowledge Graph approach to a Web Agent one.
+Talk Lyon Data Science on comparing a Knowledge Graph approach to a Web Agent one. Replay of the talk can be found on [YouTube](https://youtu.be/dnf0Ex-x6Ck), the talk is in French.
 
 ## KG-RAG
 
@@ -30,3 +30,7 @@ Specify an `.env` file with :
 - the Neo4j graph user
 - the Neo4j graph password
 - the Neo4j graph database name
+
+## Web Agent
+
+Please check the REDAME in the web_agent folder.
